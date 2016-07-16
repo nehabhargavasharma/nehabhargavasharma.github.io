@@ -1,9 +1,12 @@
 img {
-        width: 400
+        width: 500
         px
     ;
 }
 body {
         text-align: center;
         font-family: "Phosphate";
+        font-size: 100px;
+        background-image: url(http://orig07.deviantart.net/46da/f/2013/220/8/f/gradient_rainbow_pebbles__1080p__by_7064n-d6h9w0k.jpg);
+        
 }
